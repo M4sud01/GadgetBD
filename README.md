@@ -4,6 +4,9 @@ A full-stack e-commerce platform built with **Next.js 14 (App Router)**, a built
 **SQLite** database (Node's native `node:sqlite` — zero external DB server needed to
 run locally), and **Socket.io** for real-time features.
 
+## LIVE
+- **[SITE](https://gadget-bd.vercel.app/)**
+
 ## Features implemented
 - 🛍️ Product catalog with search, category filters, and sorting
 - 🏷️ Deals page with automatic discount badges (compare-at pricing)
